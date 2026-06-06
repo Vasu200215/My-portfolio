@@ -1,5 +1,5 @@
 
-  # Improve Spacing and Responsiveness
+  # VasuGoyal's Portfolio
 
   This is a code bundle for Improve Spacing and Responsiveness. The original project is available at https://www.figma.com/design/p9nk6CyqmqiXMRhzI4QcjO/Improve-Spacing-and-Responsiveness.
 
