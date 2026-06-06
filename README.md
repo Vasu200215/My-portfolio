@@ -1,7 +1,10 @@
 
   # VasuGoyal's Portfolio
 
-  This is a code bundle for Improve Spacing and Responsiveness. The original project is available at https://www.figma.com/design/p9nk6CyqmqiXMRhzI4QcjO/Improve-Spacing-and-Responsiveness.
+  Personal portfolio website showcasing projects, skills, and experience.
+
+Live Site:
+https://my-portfolio-phi-lilac-62.vercel.app
 
   ## Running the code
 
