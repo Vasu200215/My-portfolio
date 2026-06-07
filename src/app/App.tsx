@@ -8,28 +8,28 @@ const PROJECTS = [
     title: 'Archaeological RAG Chatbot',
     desc: 'Precision RAG system for querying archaeological PDFs, field notes, and satellite imagery. Multi-modal Q&A with predictive site localization and geospatial map overlays.',
     tags: ['LangChain', 'FAISS', 'GeoPandas', 'Folium', 'React'],
-    githubUrl: 'https://github.com/Vasu200215/Archaeological-RAG-Chatbot',
+    githubUrl: 'https://github.com/Vasu200215/Archaeological-Survey-RAG-Chatbot',
   },
   {
     id: '02', accent: 'purple', icon: '🧠',
     title: 'Local Mind',
     desc: 'Desktop-native interface for offline interaction and fine-tuning of Llama 3 and Mistral. Custom Post-Training Quantization for low-latency inference on consumer hardware.',
     tags: ['PyTorch', 'Llama 3', 'Mistral', 'PTQ', 'Qt'],
-    githubUrl: 'https://github.com/Vasu200215/Local-Mind',
+    githubUrl: 'https://github.com/Vasu200215/Local-Mind-LLM-main',
   },
   {
     id: '03', accent: 'teal', icon: '🔍',
     title: 'Site Discovery Predictor',
     desc: 'End-to-end ML pipeline combining Random Forest, XGBoost, and CNNs to predict historical site locations from multi-spectral geospatial features. 90%+ validated accuracy.',
     tags: ['Scikit-learn', 'XGBoost', 'TensorFlow', 'Folium'],
-    githubUrl: 'https://github.com/Vasu200215/Site-Discovery-Predictor',
+    githubUrl: 'https://github.com/Vasu200215/Archaeological-Site-Discovery-Predictor-main',
   },
   {
     id: '04', accent: 'amber', icon: '📖',
     title: 'Google Keep Clone',
     desc: 'Responsive notebook app with drag-and-drop, label categorization, and offline-first storage via Dexie.js / IndexedDB. Co-authored a peer-reviewed React paper.',
     tags: ['React JS', 'Dexie.js', 'IndexedDB', 'Sass'],
-    githubUrl: 'https://github.com/Vasu200215/Google-Keep-Clone',
+    githubUrl: 'https://github.com/Vasu200215/Google-Keep-Clone-Master',
   },
 ];
 
